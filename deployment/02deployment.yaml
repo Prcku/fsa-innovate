@@ -28,7 +28,7 @@ spec:
     spec:     
       containers:     
       - name: innovate
-        image: fsainfrasochabranislavregistry.azurecr.io/innovate:latest
+        image: fsainfrasochabranislavregistry.azurecr.io/innovate:latest1
         ports:       
         - containerPort: 80  
         imagePullPolicy: Always
